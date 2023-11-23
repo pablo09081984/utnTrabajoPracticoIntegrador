@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\Solano\Desktop\utnrepogit\.git"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="pablo09081984@github.com:panchoalenda/grupo10-utn.git"/>
+		<item value="github.com:panchoalenda/grupo10-utn.git"/>
+		<item value="git@github.com:panchoalenda/grupo10-utn.git"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>
